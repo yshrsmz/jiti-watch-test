@@ -1,5 +1,12 @@
 # jiti x Fastify ERR_REQUIRE_ESM error
 
+## how to reproduce
+
+1. `pnpm install`
+2. `pnpm dev`
+
+## error message
+
 
 ```
 $ pnpm dev

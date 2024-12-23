@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "JITI_DEBUG=1 node --watch --import jiti/register src/index.ts"
+    "dev": "JITI_DEBUG=1 node --import jiti/register src/index.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@8.15.7+sha256.50783dd0fa303852de2dd1557cd4b9f07cb5b018154a6e76d0f40635d6cee019",
+  "packageManager": "pnpm@9.15.1",
   "devDependencies": {
     "jiti": "2.4.2",
     "typescript": "5.7.2"
